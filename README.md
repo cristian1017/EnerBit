@@ -13,7 +13,7 @@
 - LocalStorage
   - Validar si el usuario ingreso las credenciales correctamente y para mantener la sesión.
 - Yup
-  - Validar los campos
+  - Validar los campos de los formularios
 
 
 ### Despliegue local
