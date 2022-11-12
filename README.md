@@ -8,11 +8,11 @@
 	- Axios para consumir los endpoints de la API otorgada.
 - sweetalert2
   - Mostrar mensajes de respuestas
-Boostrap
+- Boostrap
   - Brindarle diseño a nuestro proyecto y estilos.
-LocalStorage
+- LocalStorage
   - Validar si el usuario ingreso las credenciales correctamente y para mantener la sesión.
-Yup
+- Yup
   - Validar los campos
 
 
